@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Marco Antônio\\Documents\\GitHub\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\Marco Antônio\\Documents\\GitHub\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Marco Antônio\\Documents\\GitHub\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\Marco Antônio\\Documents\\GitHub\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Marco Antônio\\Documents\\GitHub\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Marco Antônio\\Documents\\GitHub\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\Marco Antônio\\Documents\\GitHub\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Marco Antônio\\Documents\\GitHub\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Marco Antônio\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Marco Antônio\\Documents\\GitHub\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\Marco Antônio\\Documents\\GitHub\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,6 +56,12 @@
               "noWarn": [
                 "NU1605"
               ]
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
