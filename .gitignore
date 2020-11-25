@@ -444,3 +444,4 @@ $RECYCLE.BIN/
 .vs/DatingApp/DesignTimeBuild/.dtbcache.v2
 .vs/DatingApp/v16/.suo
 .gitattributes
+appsettings.json
