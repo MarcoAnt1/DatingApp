@@ -441,3 +441,5 @@ $RECYCLE.BIN/
 !.vscode/launch.json
 !.vscode/extensions.json
 
+.vs/DatingApp/DesignTimeBuild/.dtbcache.v2
+.vs/DatingApp/v16/.suo
