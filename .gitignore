@@ -442,5 +442,11 @@ $RECYCLE.BIN/
 !.vscode/extensions.json
 .vs/DatingApp/DesignTimeBuild/.dtbcache.v2
 .vs/DatingApp/v16/.suo
+
 .gitattributes
 appsettings.json
+API/obj/API.csproj.nuget.dgspec.json
+API/obj/API.csproj.nuget.g.props
+API/obj/project.assets.json
+API/obj/project.nuget.cache
+*.cache
