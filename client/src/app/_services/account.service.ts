@@ -20,7 +20,6 @@ export class AccountService {
         const user = response;
         if (user) {
           localStorage.setItem('user', JSON.stringify(user));
-          localStorage.setItem('model', JSON.stringify(model));
           this.currentUserSource.next(user);
         }
       })
